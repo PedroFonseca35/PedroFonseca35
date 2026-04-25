@@ -5,7 +5,7 @@
 - 💻 Apaixonado por tecnologia e inovação
 
 ## 🔗 Meus links
-[LinkedIn] | [Portfólio]
+email: pedrorecife03@gmail.com [LinkedIn] | [Portfólio]
 
 ## 🚀 Linguagens e Tecnologias
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
