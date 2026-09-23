@@ -1,4 +1,4 @@
-# Olá, eu sou o Pedro Fonseca! 👋
+# Pedro Fonseca! 👋
 
 - 🎓 Estudante de Sistemas de Informação
 - 🔭 Atualmente estudando desenvolvimento web
